@@ -33,7 +33,7 @@ We hate demonstrating the obvious, and strongly dislike low quality datasets and
 
 ## What do we do?
 
-We embrace eclecticsm and draw concepts from ecology, evolution, demography and conservation to tackle our questions.
+We embrace eclecticism and draw concepts from ecology, evolution, demography and conservation to tackle our questions.
 
 At the technical level, we mix statistics and programming (with an occasional dash of mathematical modeling) to analyse data collected in the wild so as to solve puzzles about wildlife conservation, the ecology and evolution of life history traits, animal behaviour, as well as to better understand various aspects of health in wildlife populations (check out our [publications](publications.html) for more details).
 
